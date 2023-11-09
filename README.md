@@ -8,7 +8,7 @@
 - ☁️ Cloud Surfer
 - 🚀 CI/CD Wizard
 - 🐧 Linux and Unix Fanatic
-- 🤖 QA and Testing Automation Freak
+- 🤖 Automation Freak
 - 🔐 Security Jedi
 - 🛠️ DevOps Maestro
 - 🚨 Incident Management Maestro
